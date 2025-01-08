@@ -1,8 +1,8 @@
-bab74d0859fe0255a2ab25fb632810d9 *DESCRIPTION
+87a3b097a919d20caecbba1fa16c6a9e *DESCRIPTION
 f367b5d4342c03ecfa15b27467f94200 *NAMESPACE
 e89503e735634defb9b1cfc13a221275 *R/align.R
 936a2039dd2b710ef7433ae22fae713b *R/datasets.R
-18ee6b9de3d2b6e9c2a4827da252ce19 *R/explore.R
+00361b90863487aa0b0bed1b92ec343c *R/explore.R
 071fa3355a7cb2c27ec2ade78a6108c6 *R/helper_functions.R
 f284a0385d55f7c8b8aca22ad441a761 *R/moRphomenses-package.R
 ceded427bf4d156e7997763b14859028 *R/shiny_mm_Explorer.R
@@ -26,8 +26,8 @@ ec554147bf072f6ebdc700a17dbe04e3 *man/mm_Diagnostics.Rd
 02d93e23bbee0d5af6dfd44c9cc0b16e *man/mm_Explorer.Rd
 612adc4ec9bab955c6041b2a9121d411 *man/mm_FillMissing.Rd
 79171b2ac93cac0d6817df1de8466f6f *man/mm_FlattenArray.Rd
-3bbe0789eef19ed492f045950bb3d6a2 *man/mm_Phenotype.Rd
-7c30914c4278e0d3c4bda7bf2547d9bc *man/mm_PlotArray.Rd
+60fc247a49a773d24bbb07c69a74e675 *man/mm_Phenotype.Rd
+7adf943376a03ec0acb592381d9b9ec0 *man/mm_PlotArray.Rd
 cee24c176422659cad200625701f84b1 *man/mm_ScreePlot.Rd
 cdfabb61649a80041c1306e88caf03e3 *man/mm_SilPlot.Rd
 436ce3df89296b47c2ef51e044546db9 *man/mm_VizModel.Rd
@@ -37,7 +37,7 @@ af7c5062e7ab0c2c8b161b7e880aee05 *man/mm_VizShapespace.Rd
 25ca447d956fa48e7f57ec65f98daef9 *man/mm_ellipse.Rd
 f7d8de37e9981127fb68f7360fea1cbc *man/mm_get_interval.Rd
 ce4e233d0348ede115c323e1fcaedf01 *man/mm_grp_dists.Rd
-5592aa0f0765c7451ac7006874bc1ea1 *man/mm_grps_PlotArray.Rd
+5f75ea6db693608c155d037396e073de *man/mm_grps_PlotArray.Rd
 b97ba4b8318b1d91b2576f1e0da388ab *man/mm_mute_cols.Rd
 5dd80f9cc335bd725bb85cfd3d3e7747 *man/mm_pretty_pca.Rd
 8c459016d30ccaf92c6c56ea954cd3b3 *man/mm_transf_geom.Rd

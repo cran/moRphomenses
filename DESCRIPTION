@@ -1,7 +1,7 @@
 Package: moRphomenses
 Title: Geometric Morphometric Tools to Align, Scale, and Compare
         "Shape" of Menstrual Cycle Hormones
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: person(given = "Daniel", family = "Ehrlich", email = "dan.ehrlich.e@gmail.com", role = c("aut", "cre"))
 Description: Mitteroecker & Gunz (2009) <doi:10.1007/s11692-009-9055-x> describe
     how geometric morphometric methods allow researchers to quantify the size
@@ -22,8 +22,8 @@ LazyData: true
 RoxygenNote: 7.3.2
 Suggests: dendextend, geomorph, cluster, shiny
 NeedsCompilation: no
-Packaged: 2024-12-11 16:00:38 UTC; ehrli097
+Packaged: 2025-01-06 18:00:43 UTC; ehrli097
 Author: Daniel Ehrlich [aut, cre]
 Maintainer: Daniel Ehrlich <dan.ehrlich.e@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-12-12 15:10:07 UTC
+Date/Publication: 2025-01-08 18:30:02 UTC
